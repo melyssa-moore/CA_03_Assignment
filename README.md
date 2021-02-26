@@ -17,7 +17,7 @@ import pydotplus
 from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score, plot_roc_curve, roc_auc_score, roc_curve, auc
-## Contact Information 
+## Author 
 Melyssa Moore
 ## Credits and Acknowledgements 
 My professor created the template for this assignment and provided the data file.  
